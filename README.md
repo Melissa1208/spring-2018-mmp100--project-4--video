@@ -30,7 +30,7 @@ You, of course, own the copyright to your work. Thus, it’s up to you whether y
 [http://www.add-link-to-your-project-here.com](http://www.add-link-to-your-project-here.com)
 
 ### Description
-Your description goes here.
+This music video is about how life is like at my job. However we only act like this around the end of the and if we got nothing to do.Also introducing the Statue Cruises Family!
 
 ## Rules
 * **Do not** add or remove any files to this repo.
